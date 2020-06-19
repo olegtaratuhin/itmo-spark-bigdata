@@ -5,6 +5,7 @@ results/
 # jupyter
 .local/
 .ipython/
+.jupyter/
 .ipython_checkpoints/
 .cache/
 
