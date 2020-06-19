@@ -1,3 +1,13 @@
+# do not include data and results
+data/
+results/
+
+# jupyter
+.local/
+.ipython/
+.ipython_checkpoints/
+.cache/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
